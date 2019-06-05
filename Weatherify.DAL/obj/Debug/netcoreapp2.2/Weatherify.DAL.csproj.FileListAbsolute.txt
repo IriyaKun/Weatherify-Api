@@ -1,0 +1,9 @@
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\bin\Debug\netcoreapp2.2\Weatherify.DAL.deps.json
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\bin\Debug\netcoreapp2.2\Weatherify.DAL.dll
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\bin\Debug\netcoreapp2.2\Weatherify.DAL.pdb
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\obj\Debug\netcoreapp2.2\Weatherify.DAL.csprojAssemblyReference.cache
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\obj\Debug\netcoreapp2.2\Weatherify.DAL.csproj.CoreCompileInputs.cache
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\obj\Debug\netcoreapp2.2\Weatherify.DAL.AssemblyInfoInputs.cache
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\obj\Debug\netcoreapp2.2\Weatherify.DAL.AssemblyInfo.cs
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\obj\Debug\netcoreapp2.2\Weatherify.DAL.dll
+C:\Users\quiet\source\repos\Weatherify\Weatherify.DAL\obj\Debug\netcoreapp2.2\Weatherify.DAL.pdb
