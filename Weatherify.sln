@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weatherify.DAL", "Weatherify.DAL\Weatherify.DAL.csproj", "{64E1CA83-629E-4C51-AA4C-9CD309DC730E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7D5E85C1-3A1F-4003-A913-766F9817BB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weatherify.API", "Weatherify.API\Weatherify.API.csproj", "{96254010-62BA-4AEC-810F-BA93B6BD6462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weatherify.BLL", "Weatherify.BLL\Weatherify.BLL.csproj", "{B7147B03-9692-4166-B605-47230021D3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64E1CA83-629E-4C51-AA4C-9CD309DC730E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E1CA83-629E-4C51-AA4C-9CD309DC730E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E1CA83-629E-4C51-AA4C-9CD309DC730E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E1CA83-629E-4C51-AA4C-9CD309DC730E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96254010-62BA-4AEC-810F-BA93B6BD6462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96254010-62BA-4AEC-810F-BA93B6BD6462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96254010-62BA-4AEC-810F-BA93B6BD6462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96254010-62BA-4AEC-810F-BA93B6BD6462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7147B03-9692-4166-B605-47230021D3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7147B03-9692-4166-B605-47230021D3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7147B03-9692-4166-B605-47230021D3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7147B03-9692-4166-B605-47230021D3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{64E1CA83-629E-4C51-AA4C-9CD309DC730E} = {7D5E85C1-3A1F-4003-A913-766F9817BB30}
+		{96254010-62BA-4AEC-810F-BA93B6BD6462} = {7D5E85C1-3A1F-4003-A913-766F9817BB30}
+		{B7147B03-9692-4166-B605-47230021D3BE} = {7D5E85C1-3A1F-4003-A913-766F9817BB30}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4189A5F-5253-4977-B38C-2C4D58B11E8A}
+	EndGlobalSection
+EndGlobal
