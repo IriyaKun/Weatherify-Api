@@ -1,6 +1,6 @@
 language: csharp
 solution: Weatherify.sln
 mono: none
-dotnet: 2.2.4
+dotnet: 2.2.2
 script:
   - dotnet restore
